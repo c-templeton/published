@@ -1,3 +1,15 @@
+**Medium** [COVIDSAFE unleashes mass outbreak of Dunning-Kruger syndrome](https://link.medium.com/SZyXuoevVib)
+
+
+
+**Medium** [Is cyber risk the climate change of the digital world?](https://link.medium.com/l0gYOZauVib)
+
+
+
+**Medium** [Is Zoom the hill we want to die on today?](https://link.medium.com/EaXUfEZtVib)
+
+
+
 **Medium** [How to create a cyber security solution robust enough for enterprise adoption](https://medium.com/@cyrise/ffb0944c1a35)
 
  
