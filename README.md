@@ -45,7 +45,7 @@ Thank-you.
 
 **CMO magazine** [Getting prepared for mandatory data breach reporting](https://www.cmo.com.au/article/617023/getting-prepared-mandatory-data-breach-reporting/) 
 
-## 
+
 
 ## Disclaimer
 
