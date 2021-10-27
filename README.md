@@ -21,13 +21,11 @@ Thank-you.
 | **CMO magazine**                                             | [Getting prepared for mandatory data breach reporting](https://www.cmo.com.au/article/617023/getting-prepared-mandatory-data-breach-reporting/) |
 
 
+### Podcasts
 
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+[Hacking into Security - The job of a CISO](https://open.spotify.com/embed-podcast/episode/3pOo1HNNF7EF5E4y9CxEVc?theme=0)
 
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)(https://open.spotify.com/embed-podcast/episode/3pOo1HNNF7EF5E4y9CxEVc?theme=0)
-
-!<iframe src="https://open.spotify.com/embed-podcast/episode/3pOo1HNNF7EF5E4y9CxEVc" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-https://open.spotify.com/episode/3pOo1HNNF7EF5E4y9CxEVc?si=B8zhNOrTQzuiLgaDGDrC-w
 
 
 ### Disclaimer
