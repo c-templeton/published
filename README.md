@@ -11,15 +11,15 @@ Thank-you.
 
 
 
-**Medium** [Is cyber risk the climate change of the digital world?](https://link.medium.com/l0gYOZauVib)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)   [Is cyber risk the climate change of the digital world?](https://link.medium.com/l0gYOZauVib)
 
 
 
-**Medium** [Is Zoom the hill we want to die on today?](https://link.medium.com/EaXUfEZtVib)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)   [Is Zoom the hill we want to die on today?](https://link.medium.com/EaXUfEZtVib)
 
 
 
-**Medium** [How to create a cyber security solution robust enough for enterprise adoption](https://medium.com/@cyrise/ffb0944c1a35)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)   [How to create a cyber security solution robust enough for enterprise adoption](https://medium.com/@cyrise/ffb0944c1a35)
 
  
 
