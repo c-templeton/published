@@ -23,7 +23,7 @@ Thank-you.
 
 
 
-!(https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) (https://open.spotify.com/embed-podcast/episode/3pOo1HNNF7EF5E4y9CxEVc?theme=0)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) (https://open.spotify.com/embed-podcast/episode/3pOo1HNNF7EF5E4y9CxEVc?theme=0)
 
 
 
