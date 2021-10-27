@@ -7,7 +7,7 @@ Thank-you.
 
 ## Articles
 
-**Medium** [COVIDSAFE unleashes mass outbreak of Dunning-Kruger syndrome](https://link.medium.com/SZyXuoevVib)
+https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white [COVIDSAFE unleashes mass outbreak of Dunning-Kruger syndrome](https://link.medium.com/SZyXuoevVib)
 
 
 
