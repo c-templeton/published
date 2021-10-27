@@ -25,6 +25,7 @@ Thank-you.
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) (https://open.spotify.com/embed-podcast/episode/3pOo1HNNF7EF5E4y9CxEVc?theme=0)
 
+<iframe src="https://open.spotify.com/embed-podcast/episode/3pOo1HNNF7EF5E4y9CxEVc" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 ### Disclaimer
