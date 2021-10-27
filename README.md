@@ -22,6 +22,11 @@ Thank-you.
 
 
 
+
+![https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white] (https://open.spotify.com/embed-podcast/episode/3pOo1HNNF7EF5E4y9CxEVc?theme=0)
+
+
+
 ### Disclaimer
 
 All views in articles are my personal opinion, based on over 20 years in the security industry. If you want to cite or quote content, please provide references back to the source, thank you.
