@@ -51,5 +51,5 @@ Thank-you.
 
 All views in articles are my personal opinion, based on over 20 years in the security industry. If you want to cite or quote content, please provide references back to the source, thank you.
 
-[Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
