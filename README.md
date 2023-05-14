@@ -14,7 +14,7 @@ Thank-you.
 | ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) | [Is Zoom the hill we want to die on today?](https://link.medium.com/EaXUfEZtVib) |
 | ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) | [How to create a cyber security solution robust enough for enterprise adoption](https://medium.com/@cyrise/ffb0944c1a35) |
 | **Securityroundtable.org**                                   | [There is no DevSecOps](https://web.archive.org/web/20200919125811/https://www.securityroundtable.org/there-no-devsecops/) |
-| **The Australian**                                           | [REA moves to tackle cyber crime](http://www.theaustralian.com.au/business/technology/rea-moves-to-tackle-cyber-crime/news-story/3989e81777b0f424defeac01b1ead0f0) |
+| **The Australian**                                           | [REA moves to tackle cyber crime](https://web.archive.org/web/20171028200015/https://www.theaustralian.com.au/business/technology/rea-moves-to-tackle-cyber-crime/news-story/3989e81777b0f424defeac01b1ead0f0) |
 | **ANZ Bluenotes**                                            | [Security, Influence and Trust](https://bluenotes.anz.com/posts/2016/11/bluenotes-debate-security-influence-trust) |
 | **Life hacker**                                              | [Good security is in our heads](https://www.lifehacker.com.au/2017/07/good-security-is-in-our-heads/) |
 | **CIO Magazine**                                             | [Security image problem has created a diversity nightmare](https://www.cio.com.au/article/626305/cyber-security-image-problem-has-created-diversity-nightmare/) |
